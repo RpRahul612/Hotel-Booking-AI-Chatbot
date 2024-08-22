@@ -12,6 +12,5 @@ KEY RESPONSIBLITIES:
 - Tested and debugged the chatbot to ensure a seamless user experience and high accuracy in responses.
 
 ACHIEVEMENTS:
-- Successfully reduced the time taken for booking inquiries and confirmations by 40%.
 - Enhanced customer satisfaction by providing instant responses to common inquiries.
 - Improved operational efficiency by automating repetitive tasks
